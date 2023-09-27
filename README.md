@@ -7,7 +7,7 @@ Like many others, the Coronavirus Pandemic hit the avaition industry quite hard.
 
 I realised I have a passion for investigation and analysis. I saw this course become available at ATU, attended an open-day where I spoke to lectures, applied and was successful. I studied part-time for two years with the hope of becoming a full-time Data Analyst. In May 2023, I graduated from ATU with First Class Honours. 
 
-I am currently seeking employment in the IT industry as a Data Analyst. You can view my [CV here]().
+I am currently seeking employment in the IT industry as a Data Analyst. You can view my [CV here](https://github.com/SarahMcNelis/Portfolio/blob/main/Sarah_McNelis_CV.pdf).
 
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sarah-mcnelis-09112a242).
 
