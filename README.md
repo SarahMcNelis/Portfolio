@@ -3,13 +3,13 @@
 ## About me
 Hello! My name is Sarah and I am a Data Analyst. I have recently completed a Higher Diploma in Science in Computing in Data Analytics from Atlantic Technological Unniversity (ATU), Galway. I did this postgratuate degree part-time while working full-time in my current position as Cargo Administration Agent in Worldwide Flight Services, Shannon Airport. 
 
-Like many others, the Coronavirus Pandemic hit the avaition industry quite hard. Ireland was host to many lockdowns and it seemed to me that cargo would never fly again. In the Summer 2020, I took time to decide what my plan B was. I had a desire to return to third level education again but the question remainded, what to study? 
+Like many others, the Coronavirus Pandemic hit the avaition industry quite hard. Ireland was host to many lockdowns and it seemed that cargo would never fly again. In the Summer 2020, I took time to decide on plan B. I had a desire to return to third level education but the question remained, what to study? 
 
-I realised I have a passion for investigation and analysis. I saw this course become available at ATU, attended an open-day where I spoke to lectures, applied and was successful. I studied part-time for two years with the hope of becoming a full-time Data Analyst. In May 2021, I graduated from ATU with First Class Honours. 
+I realised I have a passion for investigation and analysis. I saw this course become available at ATU, attended an open-day where I spoke to lectures, applied and was successful. I studied part-time for two years with the hope of becoming a full-time Data Analyst. In May 2023, I graduated from ATU with First Class Honours. 
 
-I am currently seeking employment in the IT industry as a Data Analyst. You can view my [CV here]()
+I am currently seeking employment in the IT industry as a Data Analyst. You can view my [CV here]().
 
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sarah-mcnelis-09112a242)
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sarah-mcnelis-09112a242).
 
 <br>
 
