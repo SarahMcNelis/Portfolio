@@ -5,11 +5,11 @@ Hello! My name is Sarah and I am a Data Analyst. I have recently completed a Hig
 
 Like many others, the Coronavirus Pandemic hit the avaition industry quite hard. Ireland was host to many lockdowns and it seemed that cargo would never fly again. In the Summer 2020, I took time to decide on plan B. I had a desire to return to third level education but the question remained, what to study? 
 
-I realised I have a passion for investigation and analysis. I saw this course become available at ATU, attended an open-day where I spoke to lectures, applied and was successful. I studied part-time for two years with the hope of becoming a full-time Data Analyst. In May 2023, I graduated from ATU with First Class Honours. 
+I realised I have a passion for investigation and analysis. I saw this course become available at ATU, attended an open-day where I spoke to lectures regarding course content. I applied for and was successfully accpeted into the course. I studied part-time for two years with the hope of becoming a full-time Data Analyst. In May 2023, I graduated from ATU with First Class Honours. 
 
 I am currently seeking employment in the IT industry as a Data Analyst. You can view my [CV here](https://github.com/SarahMcNelis/Portfolio/blob/main/Sarah_McNelis_CV.pdf).
 
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sarah-mcnelis-09112a242).
+Feel free to connect with me via [LinkedIn](www.linkedin.com/in/sarahmcnelis).
 
 <br>
 
