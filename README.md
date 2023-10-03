@@ -9,7 +9,7 @@ I realised I have a passion for investigation and analysis. I saw this course be
 
 I am currently seeking employment in the IT industry as a Data Analyst. You can view my [CV here](https://github.com/SarahMcNelis/Portfolio/blob/main/Sarah_McNelis_CV.pdf).
 
-Feel free to connect with me via [LinkedIn](www.linkedin.com/in/sarahmcnelis).
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/sarah-mcnelis-09112a242).
 
 <br>
 
